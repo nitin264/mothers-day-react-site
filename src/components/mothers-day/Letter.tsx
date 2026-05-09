@@ -32,7 +32,7 @@ export function Letter() {
           </div>
 
           <div className="mt-10 text-right">
-            <p className="font-script text-3xl text-primary sm:text-4xl">With all my love,</p>
+            <p className="font-script text-3xl text-primary sm:text-4xl">With all our love,</p>
             <p className="mt-1 font-script text-3xl text-primary/80 sm:text-4xl"> Nitin and Hari</p>
           </div>
         </div>
