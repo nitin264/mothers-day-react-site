@@ -2,7 +2,7 @@ import { Heart, Sun, BookOpen, Sparkles, Coffee, Compass } from "lucide-react";
 import { SectionReveal } from "./SectionReveal";
 
 const lessons = [
-  { icon: Heart, title: "Love loudly", text: "Say it. Show it. Don't save it for later — later isn't promised." },
+  { icon: Heart, title: "Love loudly", text: "Say it. Show it. Don't save it for later. Later isn't promised." },
   { icon: Sun, title: "Begin again", text: "Every morning is permission to start over. Even on hard days." },
   { icon: BookOpen, title: "Listen first", text: "Most of the time, people aren't asking to be fixed. Just heard." },
   { icon: Sparkles, title: "Find the small magic", text: "In the steam of tea. In the quiet. In the ordinary Tuesday." },

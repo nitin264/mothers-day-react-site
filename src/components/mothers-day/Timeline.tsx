@@ -4,7 +4,7 @@ const moments = [
   { year: "2001", title: "The day you became mom", text: "And the world tilted toward warmth." },
   { year: "2005", title: "First day of school", text: "You were braver than I was. You let me go anyway." },
   { year: "2015", title: "The kitchen lessons", text: "Recipes were just an excuse for the conversation. You taught me more about life than school ever did." },
-  { year: "2018", title: "When everything fell apart", text: "You always knew something was wrong before I said a word. Somehow, chai was your solution to everything." },
+  { year: "2018", title: "When everything fell apart", text: "You always knew something was wrong before I said a word. Somehow, tea was your solution to everything." },
   { year: "2022", title: "Watching me leave home", text: "You smiled. I know now what that smile cost. You kept adding things after I said the bag was full. I think love just needed more space." },
   { year: "Today", title: "Still my first call", text: "And every day after this one, too." },
 ];
